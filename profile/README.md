@@ -1,5 +1,6 @@
 ## Hi there 👋
-Profile Work in progress ...
+## HOODIUM NETWORK
+### The Dual-Blockchain from Hoodinals
 <!--
 
 **Here are some ideas to get you started:**
